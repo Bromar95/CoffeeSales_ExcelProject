@@ -81,13 +81,13 @@ Dataset and project idea based on [Tutorial Name](link). -->
 
 ## 🔗 Related Link
 
-[LinkedIn Post](ADD-LINK-HERE)
+[LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:share:7513314426033209344/)
 
 ## 🧑‍💻 Author
 
 **Omar Shazley**: Data Analyst | Excel, SQL, and healthcare data analytics
 
-💼 [LinkedIn](ADD-LINK-HERE)<br>
-📧 Email: ADD-EMAIL-HERE
+💼 [LinkedIn](https://www.linkedin.com/in/omar-shazley-914a16b1/)<br>
+📧 Email: omarshazley@gmail.com
 
 ✨ **If you like this project, don't forget to ⭐ star the repo!**
